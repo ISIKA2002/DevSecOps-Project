@@ -154,7 +154,7 @@ Install below plugins
 
 ### **Configure Java and Nodejs in Global Tool Configuration**
 
-Goto Manage Jenkins → Tools → Install Version(17.0.8.1+1) , Name JDK(17) and Version(16.2.0), NodeJs(16)→ Click on Apply and Save
+Goto Manage Jenkins → Tools → Install Version(17.0.8.1+1) , Name:JDK(17) and Version(16.2.0), Name:NodeJs(16)→ Click on Apply and Save
 
 
 ### SonarQube
